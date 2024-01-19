@@ -7,6 +7,6 @@ if it's even - divide by 2
 
 then the integer will end with a loop of 4->2->1->4...
 
-this has not been solved, so these scripts try to test the conjecture
+it's a conjecture because it has not been solved yet, so these scripts try to test the conjecture
 
 the python script is the simpler one, and the C script is the optimized one
