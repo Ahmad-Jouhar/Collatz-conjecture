@@ -9,4 +9,5 @@ It's a conjecture because it has not been solved yet, so these scripts try to te
 ## Requirements:
 - Python 3 (for the python script)
 - A C compiler (gcc is pre-installed in linux)
+
 The Python script is the simpler one, and the C script is the optimized one
