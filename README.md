@@ -1,12 +1,12 @@
 # What is the Collatz Conjecture?
 
-the collatz conjecture states that given any positive integer and applying the following rules:
+The Collatz conjecture states that given any positive integer and applying the following rules:
+- If it's odd - multiply by 3 and add 1
+- If it's even - divide by 2
+Then the integer will end with a loop of 4->2->1->4...
+It's a conjecture because it has not been solved yet, so these scripts try to test the conjecture
 
-if it's odd - multiply by 3 and add 1
-if it's even - divide by 2
-
-then the integer will end with a loop of 4->2->1->4...
-
-it's a conjecture because it has not been solved yet, so these scripts try to test the conjecture
-
-the python script is the simpler one, and the C script is the optimized one
+## Requirements:
+- Python 3 (for the python script)
+- A C compiler (gcc is pre-installed in linux)
+The Python script is the simpler one, and the C script is the optimized one
