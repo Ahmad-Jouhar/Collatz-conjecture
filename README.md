@@ -5,7 +5,7 @@ The Collatz conjecture states that given any positive integer and applying the f
 - If it's even - divide by 2
 Then the integer will end with a loop of 4->2->1->4...
 It's a conjecture because it has not been solved yet, so these scripts try to test the conjecture
-
+ 
 ## Requirements:
 - Python 3 (for the python script)
 - A C compiler (gcc is pre-installed in linux)
