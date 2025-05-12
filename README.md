@@ -11,3 +11,7 @@ It's a conjecture because it has not been solved yet, so these scripts try to te
 - A C compiler (gcc is pre-installed in linux)
 
 The Python script is the simpler one, and the C script is the optimized one
+
+## Extras:
+- A java file that will run the code using 24 threads
+- A python file that will run the code using millions of GPU threads using CUDA
