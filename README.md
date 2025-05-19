@@ -15,4 +15,4 @@ The Python script is the simpler one, and the C script is the optimized one
 ## Extras:
 - A java file that will run the code using 24 threads
 - A python file that will run the code using millions of GPU threads using CUDA
-- 2 additional versions of the code using functional and OOP programming methodlogies
+- 2 additional versions of the code using functional and OOP programming methodologies
